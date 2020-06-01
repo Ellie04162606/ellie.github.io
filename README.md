@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+title:Welcome to the Ellie's homePages
+description:Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/Ellie04162606/ellie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
